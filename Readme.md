@@ -180,7 +180,7 @@ void tempinlcd(float HR, float TC, float IC)    //Funcio que controla la present
 }
 ```
 
-[![Muntatge final](./Images/P01_DHTaLCDI2C.png)](https://www.youtube.com/watch?v=kSQnQwNfoqU)
+<a href="(https://www.youtube.com/watch?v=kSQnQwNfoqU" target="_blank">![Muntatge final](./Images/P01_DHTaLCDI2C.png)</a>
 
 Feu clic en la imatge si voleu veure un video curt del muntatge.
 
