@@ -180,8 +180,6 @@ void tempinlcd(float HR, float TC, float IC)    //Funcio que controla la present
 }
 ```
 
-Feu clic <a href="https://www.youtube.com/watch?v=kSQnQwNfoqU" target="_blank">aquí</a> si voleu veure un video curt del muntatge.
-
 ## Referencies
 
 1. Viquipèdia, [I²C](https://ca.wikipedia.org/wiki/I%C2%B2C), 5 set 2021 a les 23:20.
