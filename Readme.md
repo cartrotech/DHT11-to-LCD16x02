@@ -180,9 +180,7 @@ void tempinlcd(float HR, float TC, float IC)    //Funcio que controla la present
 }
 ```
 
-[![Muntatge final](./Images/P01_DHTaLCDI2C.png)](./Videos/DHT%20a%20LCD%20I2C.mp4)
-
-Feu clic en la imatge si voleu veure un video curt del muntatge.
+Feu clic <a href="https://www.youtube.com/watch?v=kSQnQwNfoqU" target="_blank">aquí</a> si voleu veure un video curt del muntatge.
 
 ## Referencies
 
